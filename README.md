@@ -1,5 +1,6 @@
 # dashboard_porsche_project
 Projeto de aprendizado em Excel e análise de dados com uma base fictícia de vendas da Porsche, explorando indicadores comerciais, comparação de vendas por cidade e modelo e desenvolvimento de uma dashboard interativa em HTML para visualização de dados.
+https://dbssantos.github.io/dashboard_porsche_project/
 
 # Porsche Sales Dashboard
 
@@ -102,5 +103,5 @@ A interface foi planejada para facilitar a leitura dos indicadores, a comparaç�
 
 ## Acesso ao projeto
 
-- **Dashboard online:** ainda não publicada.
+- **Dashboard online:** https://dbssantos.github.io/dashboard_porsche_project/
 - **Arquivo
